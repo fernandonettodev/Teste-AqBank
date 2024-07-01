@@ -61,8 +61,7 @@ Para utilizar a API, você precisa se autenticar usando um token JWT. Você pode
 ## Coleção do Postman
 
 Você pode encontrar uma coleção do Postman para essa API neste link:
-[Postman Collection](https://drive.google.com/file/d/1SMYMU7YaHPbsuckrmtMCBNVXdE4FmyJp/view?usp=drive_link)
-[Postman Globals](https://drive.google.com/file/d/1SMYMU7YaHPbsuckrmtMCBNVXdE4FmyJp/view?usp=sharing)
+[Postman Collection e Globals](https://drive.google.com/drive/folders/1pOf5EshrUS3xan6brmkczIJdb5LR_vKH?usp=drive_link)
 
 ## Lembrete:
 Siga sempre o passo de:
