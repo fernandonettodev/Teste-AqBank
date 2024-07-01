@@ -6,7 +6,7 @@
 
 1. Clone o projeto para sua máquina:
    ```bash
-   git clone https://github.com/seu-usuario/seu-projeto.git
+   git clone https://github.com/fernandonettodev/Teste-AqBank
    cd seu-projeto
    ```
 
