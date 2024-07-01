@@ -2,6 +2,10 @@
 
 ## Iniciando
 
+### Necessario:
+[Docker](https://www.docker.com/products/docker-desktop/)
+[PHP 8.1](https://www.php.net/releases/8.1/en.php)
+
 ### Passos para rodar o projeto:
 
 1. Clone o projeto para sua máquina:
@@ -59,6 +63,10 @@ Para utilizar a API, você precisa se autenticar usando um token JWT. Você pode
 Você pode encontrar uma coleção do Postman para essa API neste link:
 [Postman Collection](https://drive.google.com/file/d/1SMYMU7YaHPbsuckrmtMCBNVXdE4FmyJp/view?usp=drive_link)
 [Postman Globals](https://drive.google.com/file/d/1SMYMU7YaHPbsuckrmtMCBNVXdE4FmyJp/view?usp=sharing)
+
+## Lembrete:
+Siga sempre o passo de:
+Autenticar, cadastrar autor, cadastrar livro e depois poder fazer o emprestimo.
 
 ## Endpoints
 
