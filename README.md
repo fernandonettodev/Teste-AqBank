@@ -119,15 +119,14 @@ Autenticar, cadastrar autor, cadastrar livro e depois poder fazer o emprestimo.
   - **Resposta:** Array de objetos de empréstimo
 
 - **POST /emprestimos:** Criar um novo empréstimo
-  - **Corpo da solicitação:** `livro_id`, `usuario_id` e `data_emprestimo`
+  - **Corpo da solicitação:** `book_id`, `user_id`
   - **Resposta:** Objeto de empréstimo criado
 
 - **GET /emprestimos/{id}:** Recuperar um empréstimo único por ID
   - **Resposta:** Objeto de empréstimo
 
-- **PUT /emprestimos/{id}:** Atualizar um empréstimo existente
-  - **Corpo da solicitação:** `livro_id`, `usuario_id` e `data_emprestimo`
-  - **Resposta:** Objeto de empréstimo atualizado
+- **PUT /emprestimos/{id}:** Atualizar o empréstimo para entrege.
+  - **Resposta:** Mensagem de sucesso
 
 - **DELETE /emprestimos/{id}:** Excluir um empréstimo
   - **Resposta:** Mensagem de sucesso
